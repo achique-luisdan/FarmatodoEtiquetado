@@ -1,0 +1,15 @@
+{
+  "env": {
+    "name": "QA"
+  },
+  "urlAPI": {
+    "domainUrlLdap": "http://alved355.farmatodo.com:18103/FarmatodoPortalService-2.0.1",
+    "itemsCompositionUrl": "http://alved355.farmatodo.com:31105/api-labeling-wsc",
+    "labelingUrl": "http://alved355.farmatodo.com:31115/api-labeling-rest-1.4",
+    "assormentUrl": "http://alved355.farmatodo.com:31111/api-assorment-rest-3.0",
+    "replenishmentUrl": "http://alved355.farmatodo.com:31109/api-replenishment-rest-1.3",
+    "labelingWscUrl": "http://alved355.farmatodo.com:31105/api-labeling-wsc",
+    "labelingBdosUrl": "http://alved355.farmatodo.com:31115/api-labeling-bdos-rest"
+
+  }
+}
